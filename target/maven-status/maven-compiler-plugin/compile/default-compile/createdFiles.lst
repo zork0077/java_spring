@@ -1,0 +1,9 @@
+com\example\currencycryptomonitor\controller\CurrencyController.class
+com\example\currencycryptomonitor\controller\CryptoController.class
+com\example\currencycryptomonitor\controller\CryptoViewController.class
+com\example\currencycryptomonitor\model\CryptoPrice.class
+com\example\currencycryptomonitor\repository\CryptoPriceRepository.class
+com\example\currencycryptomonitor\service\CryptoService.class
+com\example\demo\CurrencyCryptoMonitorApplication.class
+com\example\currencycryptomonitor\model\CurrencyRate.class
+com\example\currencycryptomonitor\service\CurrencyService.class
